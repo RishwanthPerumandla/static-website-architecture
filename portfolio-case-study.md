@@ -51,7 +51,7 @@ A business approaches with a requirement to build a professional website. As a S
    * Do they want to use a pre-built template?
    * Are custom design elements or animations required?
 
-📎 **[View Full Discovery Questionnaire →](#)** *(To be linked to Notion/Google Doc)*
+📎 **[View Full Discovery Questionnaire →](https://github.com/RishwanthPerumandla/static-website-architecture/blob/main/docs/discovery-questionnaire.md)**
 
 ---
 
@@ -132,7 +132,7 @@ Instead of just “hosting” the site, the aim is to design for scalability, av
 
 **Estimated Total**: **<\$1/month**
 
-🖼️ *\[Insert Draw\.io: S3 + CloudFront + Route 53 Architecture]*
+![S3 + CloudFront Architecture](/assets/images/posts/StaticWebsiteAWS.png)
 
 ---
 
@@ -160,8 +160,7 @@ Instead of just “hosting” the site, the aim is to design for scalability, av
 * \$5/month instance + \$1 static IP (if not attached)
 * Optional: CloudFront for faster asset delivery
 
-🖼️ *\[Insert Draw\.io: Lightsail + WordPress Stack]*
-
+![Lightsail Wordpress Architecture](/assets/images/posts/Lightsail.png)
 ---
 
 ### Option 3: **Elastic Beanstalk (EC2 + RDS)** — Managed WordPress Stack
@@ -187,8 +186,7 @@ Instead of just “hosting” the site, the aim is to design for scalability, av
 
 **Total**: \~\$42/month
 
-🖼️ *\[Insert Draw\.io: Beanstalk HA WordPress Stack]*
-
+![S3 + CloudFront Architecture](/assets/images/posts/Beanstalk.png)
 ---
 
 ### Option 4: **Custom EC2 + RDS** — Fully Manual Infra
@@ -213,8 +211,6 @@ Instead of just “hosting” the site, the aim is to design for scalability, av
 **Estimated Cost**:
 
 * \~\$60/month fully loaded
-
-🖼️ *\[Insert Draw\.io: Full Custom Infra Architecture]*
 
 ---
 
@@ -251,5 +247,7 @@ This wasn’t just about publishing a few static pages. This was a rigorous eval
 ---
 
 **Check out the GitHub Repo →** [Github](https://github.com/RishwanthPerumandla/static-website-architecture.git)
-**View Architecture Diagrams →** [](https://github.com/RishwanthPerumandla/static-website-architecture/diagrams)
-\**Have a similar requirement? Reach out via [rishwanth.perumandla@hotmail.com](mailto:rishwanth.perumandla@hotmail.com)*
+
+**View Architecture Diagrams →** [Diagrams](https://github.com/RishwanthPerumandla/static-website-architecture/diagrams)
+
+*Have a similar requirement? Reach out via [rishwanth.perumandla@hotmail.com](mailto:rishwanth.perumandla@hotmail.com)*

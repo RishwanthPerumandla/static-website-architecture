@@ -1,4 +1,4 @@
-# Advanced Discovery Questionnaire – Website Architecture
+# Discovery Questionnaire – Website Architecture
 
 **Prepared by:** Rishwanth Perumandla  
 **Purpose:** To uncover both functional and non-functional requirements before architecting a scalable, performant, and secure website infrastructure.  
